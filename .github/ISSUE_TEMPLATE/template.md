@@ -1,5 +1,5 @@
 ---
-name: "🚧 Feature / Task"
+name: "template"
 about: "기능 개발 또는 작업 이슈 생성"
 title: "[Task] "
 labels: ["task"]
