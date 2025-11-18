@@ -1,9 +1,9 @@
 ---
-name: "template"
-about: "기능 개발 또는 작업 이슈 생성"
-title: "[Task] "
-labels: ["task"]
-assignees: []
+name: template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 ---
 
 ## :rainbow: Success criteria
