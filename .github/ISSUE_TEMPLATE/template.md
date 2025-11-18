@@ -1,3 +1,11 @@
+---
+name: "🚧 Feature / Task"
+about: "기능 개발 또는 작업 이슈 생성"
+title: "[Task] "
+labels: ["task"]
+assignees: []
+---
+
 ## :rainbow: Success criteria
 <!-- 요구사항을 상세히 설명해주세요. 글/사진/그림(흐름도) 모두 사용해봅시다.  -->
 1.  
